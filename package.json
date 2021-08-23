@@ -1,0 +1,27 @@
+{
+  "name": "duo-touch",
+  "version": "0.0.21",
+  "description": "a touch special effects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "button",
+    "click",
+    "touch",
+    "effects",
+    "ripple",
+    "particle",
+    "button-click",
+    "click-effects",
+    "click-ripple",
+    "touch-ripple",
+    "touch-effects"
+  ],
+  "author": "duofuni",
+  "license": "ISC",
+  "dependencies": {
+    "animejs": "^3.2.1"
+  }
+}
